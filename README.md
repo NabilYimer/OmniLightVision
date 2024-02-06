@@ -1,2 +1,4 @@
 # OmniLightVision-
-OmniLightVision is a image recognition project utlizing YOLOv8. this projects aims to identify traffic signal. Using a custom dataset, ensuring accuracy and adaptability in various scenarios.
+
+
+OmniLightVision is an image recognition project utilizing YOLOv8. This project aims to identify traffic signals using a custom dataset, ensuring accuracy and adaptability in various scenarios
