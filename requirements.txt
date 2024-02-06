@@ -1,0 +1,4 @@
+roboflow == 1.1.19
+opencv == 4.9.0.80
+Pillow == 10.0.1
+ultralytics == 8.1.9
